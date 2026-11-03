@@ -98,7 +98,7 @@
     "eslint-config-prettier": "^9.1.0",
     "lodash": "^4.17.21",
     "mantine-contextmenu": "^7.12.2",
-    "next": "^14.2.7",
+    "next": "^15.5.28",
     "postcss": "^8.4.44",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.1.0",
